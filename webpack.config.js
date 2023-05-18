@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
   entry: [
-	'./client/index.js'
+	'./client/index.jsx'
   ],
   output: {
 	path: path.resolve(__dirname, 'dist'),
