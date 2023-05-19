@@ -11,8 +11,10 @@ app.get('/', (req,res) => {
 	return res.status(200).sendFile(path.join(__dirname, '../client/index.html'))
 })
 
-
-
+//temp pathway
+app.use('/assets', (req, res) => {
+	return res.status(200);
+})
 
 
 
