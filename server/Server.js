@@ -17,6 +17,10 @@ app.use('/assets', (req, res) => {
 	return res.status(200);
 })
 
+//send it to login route
+app.use('/login', (req, res) => {
+	return res.status(200);
+})
 
 
 app.listen(PORT, () => {
