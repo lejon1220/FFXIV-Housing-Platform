@@ -8,7 +8,7 @@ const router = express.Router();
 
 //sign up
 
-
+//delete account
 
 
 
