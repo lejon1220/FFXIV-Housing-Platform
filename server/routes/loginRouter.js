@@ -10,7 +10,7 @@ const router = express.Router();
 
 //delete account
 
-
+//verify/jwt route
 
 
 module.exports = router;
