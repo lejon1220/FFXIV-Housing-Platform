@@ -1,13 +1,12 @@
 import React from "react";
 
+const App = props =>{
 
-render (
-<div>
-Hello world;
-	
-</div>
-
-
-)
+	return (
+		<div>
+			hello world
+		</div>
+	)
+}
 
 export default App;

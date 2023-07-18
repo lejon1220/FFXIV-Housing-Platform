@@ -1,9 +1,12 @@
 import React from "react";
-import {render} from "react-dom";
+import { createRoot } from 'react-dom/client';
 import App from './app.jsx';
 
-render (
+console.log("hello");
+const root = createRoot(document.getElementById('root'));
+root.render (
 	<div>
-	 <App/>
+		<App/>
 	</div>
 );
+/*<App/>*/
