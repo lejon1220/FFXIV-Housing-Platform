@@ -9,4 +9,5 @@ const App = props =>{
 	)
 }
 
+//app should lead to navbar
 export default App;

@@ -9,4 +9,7 @@ root.render (
 		<App/>
 	</div>
 );
+
+//utilize react router perhaps?
+
 /*<App/>*/
