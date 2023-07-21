@@ -4,10 +4,12 @@ const App = props =>{
 
 	return (
 		<div>
-			hello world
+			
 		</div>
 	)
 }
 
 //app should lead to navbar
+//and main container
+//reminder to import both 
 export default App;
