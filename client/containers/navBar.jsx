@@ -4,7 +4,7 @@ const navBar = props => {
 
 	return(
 		<div>
-
+			
 		</div>
 	)
 
